@@ -20,7 +20,7 @@ Technologies and Tools
 Maven: For project build and dependency management.
 Postman: For API testing.
 
-Basic Features of the EMS
+Basic Features of the EMS:
 User Authentication and Authorization:
 Secure login and role-based access control.
 
@@ -56,5 +56,5 @@ Implement above features in IntelliJ IDEA platform.
 Implement API calls for CRUD operations.
 Testing and Deployment:
 
-Test the application using tools like Postman and JUnit.
+Test the application using tools using Postman.
 Deploy the application to a web server or cloud platform.
