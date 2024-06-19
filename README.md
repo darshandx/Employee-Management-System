@@ -4,7 +4,7 @@ Key Components
 Front-End used:
 HTML/CSS: For structuring and styling the web pages.
 JavaScript: For client-side scripting.
-Front-End Framework: React Js.
+Front-End Framework: React Js and Vite Js
 
 Back-End used:
 Java: The core programming language used for server-side logic.
